@@ -107,9 +107,8 @@ def main():
         
         st.markdown("### Support")
         st.markdown("""
-        - 📧 Email: support@budgetbuddy.com
-        - 📞 Phone: (555) 123-4567
-        - 🌐 [Documentation](https://docs.budgetbuddy.com)
+        - 📧 Email: jerry.houghton@gmail.com
+        - 📞 Phone: (435) 830-3452
         """)
         
         st.markdown("---")
